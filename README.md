@@ -59,4 +59,5 @@ endmodule
 ![image](https://github.com/user-attachments/assets/e41366a3-f72e-4e2d-a9fc-19d59102e0eb)
 
 **RESULTS**
+
 Program for T flipflop was verified  in quartus using Verilog programming.
